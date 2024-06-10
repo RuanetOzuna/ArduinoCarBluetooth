@@ -6,7 +6,7 @@
 
 <h4> Languages </h4>
 <span> 
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </span>
 
 <h4> IDE </h4>
